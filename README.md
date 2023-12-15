@@ -24,7 +24,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/diamond-price-prediction.git
+git clone https://github.com/ancybjohn02/diamond-price-prediction.git
 Change to the project directory:
 
 bash
